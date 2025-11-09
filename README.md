@@ -1,4 +1,4 @@
-# Acadmate eXQ — Implemented Demo (Full-Stack)
+# Acadmate 
 
 This build adds real flows on top of your skeleton:
 - Auth with roles (student/faculty/admin) via demo buttons
